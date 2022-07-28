@@ -1,0 +1,2 @@
+/*Write a C program to find the transpose of a array and 
+display the final array.*/
